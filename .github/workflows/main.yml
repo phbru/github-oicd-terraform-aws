@@ -1,7 +1,7 @@
 name: "Terraform action"
 on:
   push:
-    branches:
+    branches: #dummy comment
       - main
   pull_request:
 permissions:
